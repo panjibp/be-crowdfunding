@@ -1,7 +1,7 @@
 package main
 
 import (
-	"be-crowdfunding/handler.go"
+	"be-crowdfunding/handler"
 	"be-crowdfunding/user"
 	"log"
 
