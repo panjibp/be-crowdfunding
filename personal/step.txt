@@ -1,0 +1,11 @@
+1.  Init di dalam directory, contoh di dalam directory be-crowdfunding
+    go mod init be-crowdfunding
+
+2.  Install Gin Web Framework (https://github.com/gin-gonic/gin)
+    go get -u github.com/gin-gonic/gin
+
+3.  Install GORM (https://gorm.io/docs/index.html)
+    go get -u gorm.io/gorm
+
+4.  Install driver MySQL (tetap compatible meskipun db yang diinstal di server adalah MariaDB)
+    go get -u gorm.io/driver/mysql
