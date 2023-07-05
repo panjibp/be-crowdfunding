@@ -9,3 +9,7 @@
 
 4.  Install driver MySQL (tetap compatible meskipun db yang diinstal di server adalah MariaDB)
     go get -u gorm.io/driver/mysql
+
+Additional:
+1. JWT
+go get github.com/dgrijalva/jwt-go 
