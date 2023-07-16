@@ -13,3 +13,6 @@
 Additional:
 1. JWT
 go get github.com/dgrijalva/jwt-go 
+
+2. Slug library
+go get -u github.com/gosimple/slug
