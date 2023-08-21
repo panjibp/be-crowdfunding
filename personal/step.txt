@@ -16,3 +16,6 @@ go get github.com/dgrijalva/jwt-go
 
 2. Slug library
 go get -u github.com/gosimple/slug
+
+3. Midtrans library
+go get -u github.com/midtrans/midtrans-go
