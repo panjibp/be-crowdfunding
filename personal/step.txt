@@ -19,3 +19,6 @@ go get -u github.com/gosimple/slug
 
 3. Midtrans library
 go get -u github.com/midtrans/midtrans-go
+
+4. CORS Library
+go get github.com/gin-contrib/cors
